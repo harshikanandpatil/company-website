@@ -649,6 +649,8 @@ Restarts Jenkins so the new Docker group membership can take effect.
 ```bash
 sudo -u jenkins docker ps
 ```
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d7419599-9ac2-4212-bddf-214e1143f58e" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ad34caba-8ccd-4872-a6ac-a36e993225ee" />
 
 ### Purpose
 
